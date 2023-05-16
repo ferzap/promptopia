@@ -6,11 +6,11 @@ To get started, follow the steps below:
 
 Clone this repository to your local machine using git clone
 ```sh
-git clone https://github.com/your-username/your-repo-name.git.
+git clone https://github.com/ferzap/promptopia.git
 ```
 Navigate to the project directory using 
 ```sh
-cd your-repo-name.
+cd promptopia
 ```
 Install the dependencies using 
 ```sh
