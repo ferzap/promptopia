@@ -1,4 +1,4 @@
-# Next.js Web Application
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs547Zn_Tx7c9xcEV-fJLHIKPNQ_HbxqoUqYWpOZ0u0nhZdaNxnqcUdA6FLPoLBYra-A&usqp=CAU" width="20%" height="20%">
 This is a web application built using Next.js. The application uses React as the frontend library, Node.js as the backend, and various other libraries and technologies.
 
 ## Getting Started
